@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/Ft3KgHUYgTsAAAAC/silent-witch.gif" width="600" alt="Monica Everett Banner"/>
+  <img src="https://media1.tenor.com/m/Mmex24_Mg-kAAAAd/silent-witch-everett-monica.gif" width="600" alt="Monica Everett Banner"/>
 </p>
 
 <h1 align="center">Hi, I'm Daffa Badran 👋</h1>
