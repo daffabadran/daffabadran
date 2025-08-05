@@ -1,54 +1,68 @@
-<!--
-**daffabadran/daffabadran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media1.tenor.com/m/Ft3KgHUYgTsAAAAC/silent-witch.gif" width="600" alt="Monica Everett Banner"/>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi there 👋, I'm Daffa Badran!
-
-## 🚀 Front End Developer | UI/UX Enthusiast
-
-I specialize in crafting modern, responsive, and interactive web interfaces using the latest front-end technologies.
+<h1 align="center">Hi, I'm Daffa Badran 👋</h1>
+<h3 align="center">Front End Developer | UI/UX Enthusiast</h3>
 
 ---
 
-### 🛠️ Technologies & Tools
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
----
-
-### 🌐 Portfolio & Projects
-
-- [Personal Website](https://yourwebsite.com)
-- [UI Components Library](https://github.com/daffabadran/ui-components)
-- [Landing Page Examples](https://github.com/daffabadran/landing-pages)
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge"/>
+</p>
 
 ---
 
-### 📊 GitHub Stats
+## 👨‍💻 About Me
 
-![Daffa's GitHub stats](https://github-readme-stats.vercel.app/api?username=daffabadran&show_icons=true&hide_title=true&count_private=true&theme=radical)
+Hi! Aku Daffa, seorang front end developer yang suka ngulik UI interaktif, desain yang clean, dan animasi smooth.  
+Saat lagi gak ngoding, biasanya aku explore inspirasi desain baru atau belajar teknologi front end terbaru.
+
+- 🌱 Lagi mendalami **React, Next.js, Tailwind CSS**
+- 💬 Suka diskusi tentang desain, UX, dan web performance
+- 🎨 Figma & design systems enthusiast
 
 ---
 
-### 📫 Connect with me
+## 🚀 Featured Projects
 
-[LinkedIn](https://linkedin.com/in/daffabadran) | [Instagram](https://instagram.com/daffabadran) | [Email](mailto:your.email@gmail.com)
+| Project | Description | Stack | Demo |
+|---------|-------------|-------|------|
+| [Portfolio Website](https://yourwebsite.com) | Personal portfolio & blog | Next.js, Tailwind CSS | [🔗 Visit](https://yourwebsite.com) |
+| [UI Components Library](https://github.com/daffabadran/ui-components) | Kumpulan React UI komponen | React, Storybook | [🔗 Repo](https://github.com/daffabadran/ui-components) |
+| [Landing Page Examples](https://github.com/daffabadran/landing-pages) | Landing page templates | HTML, CSS, JS | [🔗 Repo](https://github.com/daffabadran/landing-pages) |
 
 ---
 
-> "Design is not just what it looks like and feels like. Design is how it works." – Steve Jobs
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=daffabadran&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daffabadran&theme=radical"/>
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/daffabadran"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Email-DaffaBadran-red?logo=gmail&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://instagram.com/daffabadran"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/></a>
+</p>
+
+---
+
+<p align="center">
+  <i>“Design is not just what it looks like and feels like. Design is how it works.” – Steve Jobs</i>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=daffabadran&style=flat-square&color=blue" alt="Profile views"/>
+</p>
