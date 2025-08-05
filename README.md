@@ -4,6 +4,7 @@
 
 <h1 align="center">Hi, I'm Daffa Badran 👋</h1>
 <h3 align="center">Front End Developer | UI/UX Enthusiast</h3>
+<h4>*On Progress FWD</h4>
 
 ---
 
@@ -19,13 +20,11 @@
 
 ## 👨‍💻 About Me
 
-Hi! Aku Daffa, seorang front end developer yang suka ngulik UI interaktif, desain yang clean, dan animasi smooth.  
-Saat lagi gak ngoding, biasanya aku explore inspirasi desain baru atau belajar teknologi front end terbaru.
+Hi! Aku Daffa, seorang front end developer yang suka ngulik UI interaktif, desain yang clean, dan animasi.  
+Saat lagi gak ngoding, biasanya aku explore inspirasi desain baru atau belajar teknologi front end terbaru, nyari nyari info deh pokoknya supaya aku bisa lebih tahu! hehe.
 
-- 🌱 Lagi mendalami **React, Next.js, Tailwind CSS**
-- 💬 Suka diskusi tentang desain, UX, dan web performance
-- 🎨 Figma & design systems enthusiast
-
+- 🌱 Lagi mendalami **js, React, Next.js, Tailwind CSS**
+- 💬 Suka diskusi tentang desain, UX, dan web performance, apalagi soal TIPS and Tricks😁
 ---
 
 ## 🚀 Featured Projects
