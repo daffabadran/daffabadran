@@ -44,7 +44,7 @@ When I'm not coding, I enjoy finding new design inspirations and catching up on 
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/daffabadran"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://www.linkedin.com/in/daffa-badran-143781380/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
   <a href="mailto:daffabadrann@gmail.com"><img src="https://img.shields.io/badge/Email-DaffaBadran-red?logo=gmail&logoColor=white&style=for-the-badge"/></a>
   <a href="https://instagram.com/januarvii"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/></a>
 </p>
