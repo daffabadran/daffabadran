@@ -37,7 +37,7 @@ When I'm not coding, I enjoy finding new design inspirations and catching up on 
 | Project    | Description              | Stack                  | Demo   |
 |------------|--------------------------|------------------------|--------|
 | Portfolio  | Personal portfolio site  | React, Tailwind, TypeScript | Soon... |
-| UI Library | UI components collection | React, Storybook       | Soon... |
+| Project | My Project | React, Storybook       | Soon... |
 
 ---
 
